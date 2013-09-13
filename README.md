@@ -24,7 +24,7 @@ Description
    use a mouse for such an app. So desktops/laptops can be used to just test the app out.
    
    The user interface points out clickable / tapable parts of the drums / cymbals using a large 'circle'.
-   When the user clicks or taps on the circle or somwhere around it, the corresponding sound of the drum kit is played. 
+   When the user clicks or taps on the circle or somewhere around it, the corresponding sound of the drum kit is played. 
    E.g. If the user clicks on the circle imprinted on the snare drum then the snare sound would be played.
 
    A second button, "Credits" shows the details and refernces about the media used in the project. Tools used 
