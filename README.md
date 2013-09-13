@@ -9,7 +9,7 @@ D Pad (Drum Pad)
    
    
    
-DESCRIPTION
+Description
 ===========
    
    The app uses the native device's touchscreen interface to interact with the user.
@@ -37,7 +37,8 @@ DESCRIPTION
    
    
    
-ABOUT PROCESSING
+About Processing
+================
 
    Processing is an open source programming language and integrated development environment built for electronic 
    arts and digital media. It is a java-based language built to teach computer programming in a visual 
@@ -49,7 +50,10 @@ ABOUT PROCESSING
    
    http://en.wikipedia.org/wiki/Processing_(programming_language)
    
-COMPILING INSTRUCTIONS
+   
+   
+Compiling Instructions
+======================
 
    The Processing integrated development environment (IDE) is required to compile the sketch.
    It can be downloaded from - http://www.processing.org/
