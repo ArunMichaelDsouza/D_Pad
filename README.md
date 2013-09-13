@@ -10,6 +10,7 @@ D Pad (Drum Pad)
    
    
 DESCRIPTION
+===========
    
    The app uses the native device's touchscreen interface to interact with the user.
    D Pad equips a pretty simple home screen with usable buttons providing easy user interaction. 
