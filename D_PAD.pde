@@ -1,8 +1,6 @@
 /* D Pad (Drum Pad)
-   Drumming App for desktop and handheld devices.
    
-   Works with Windows, Linux and Mac OSes for desktops/laptops.
-   Also works with the Android OS and the iOS for handheld devices.
+   Drumming App built with Processing (www.processing.org), for Android/iOS Devices.
   
    Designing and Programming by - Arun Michael Dsouza.
    
@@ -159,7 +157,7 @@ void draw()
 }
 
 
-// Defines the functionality of the 'mouse click' or 'finger tap' event.
+// Defines the functionality of the 'finger tap' event.
 
 void mouseReleased()
 {
@@ -229,7 +227,7 @@ void GUI()
   showGUI=true;
   setup();
   
-// Hidden individual parts, but they provide the actual functionality.
+// Hidden individual parts, which provide the actual functionality.
 
   image(snare,110,190,90,90);
   image(floortom,250,170,floortom.width+10,110);
