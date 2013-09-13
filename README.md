@@ -7,8 +7,10 @@ D Pad (Drum Pad)
    
    Date : July 28, 2013 
    
-   Description
-   ===========
+   
+   
+DESCRIPTION
+   
    The app uses the native device's touchscreen interface to interact with the user.
    D Pad equips a pretty simple home screen with usable buttons providing easy user interaction. 
    
@@ -32,8 +34,10 @@ D Pad (Drum Pad)
    the "Credits" button as "always active" for quick interaction (never hidden) so as the user can view the 
    credits anytime.
    
-   About Processing
-   ================
+   
+   
+ABOUT PROCESSING
+
    Processing is an open source programming language and integrated development environment built for electronic 
    arts and digital media. It is a java-based language built to teach computer programming in a visual 
    context.
@@ -44,8 +48,8 @@ D Pad (Drum Pad)
    
    http://en.wikipedia.org/wiki/Processing_(programming_language)
    
-   Compiling Instructions
-   ======================
+COMPILING INSTRUCTIONS
+
    The Processing integrated development environment (IDE) is required to compile the sketch.
    It can be downloaded from - http://www.processing.org/
    
@@ -63,6 +67,8 @@ D Pad (Drum Pad)
           folder where D_PAD.pde file is present. Also make sure that "Java" mode is enabled on the top right
           bar present on the Processing IDE window.
           
+
+
 
 
 Fork it! send me a pull request! have fun exploring!!
