@@ -76,7 +76,7 @@ Compiling Instructions
    
    NOTE : Make sure the "data" folder, the "MaximJava_api.pde" and "GUI.pde" files are present in the same
           folder where D_PAD.pde file is present. Also make sure that "Java" mode is enabled on the top right
-          panel present on the Processing IDE window. This will launch the app on the computer.
+          panel present on the Processing IDE window. This will launch the app on the local computer.
           
    FOR ANDROID DEVICES - 
    Select "Android Mode" from the top right panel in the Processing IDE. Before that you might need to setup your
