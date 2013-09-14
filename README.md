@@ -57,6 +57,12 @@ Compiling Instructions
 
    The Processing integrated development environment (IDE) is required to compile the sketch.
    It can be downloaded from - http://www.processing.org/
+   Setup your IDE by downloading Android and Javascript modes, for running the app on Android/iOS devices.
+   Download the modes from this link - 
+   http://www.blurrypaths.com/post/52573899794/processing-2-0-modes-download-links
+   
+   Put these modes under Documents\Processing\modes\
+   (Assuming a windows machine)
    
    Create a new folder and add all D_PAD repo contents into this folder. Simply click "Download Zip" from the 
    panel on the right. 
@@ -70,7 +76,35 @@ Compiling Instructions
    
    NOTE : Make sure the "data" folder, the "MaximJava_api.pde" and "GUI.pde" files are present in the same
           folder where D_PAD.pde file is present. Also make sure that "Java" mode is enabled on the top right
-          bar present on the Processing IDE window.
+          panel present on the Processing IDE window. This will launch the app on the computer.
+          
+   FOR ANDROID DEVICES - 
+   Select "Android Mode" from the top right panel in the Processing IDE. Before that you might need to setup your
+   android environment. 
+   
+   The following links will help - 
+   http://wiki.processing.org/w/Android
+   http://processing.org/tutorials/android/
+   
+   After complete setup, connect your phone to the computer, enable USB debugging under "Developer Settings" menu and
+   run the script.
+   
+   FOR iOS DEVICES - 
+   Select "Javascript Mode" from the top right panel in the Processing IDE.
+   Now click the run button, the app will be launched in the web browser. 
+   Make sure you are on the same wireless network on the computer and the mobile device.
+   
+   Now,Open Safari on your mobile device.
+   In the address bar type in the ip address of your computer followed by a colon and the port number that the 
+   web browser running on the computer will show. And hit enter.
+   
+   In the Safari address bar , it will look something like this - 
+   http://192.168.0.xyz:23454
+   where 23454 is the port number.
+   To get the ip address on MAC use ifconfig on the terminal. On windows use ipconfig at command prompt.
+   
+   
+   
           
 
 
