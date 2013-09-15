@@ -54,6 +54,7 @@ Compiling Instructions
 
    The Processing integrated development environment (IDE) is required to compile the sketch.
    It can be downloaded from - http://www.processing.org/
+   
    Setup your IDE by downloading Android and Javascript modes, for running the app on Android/iOS devices.
    Download the modes from this link - 
    http://www.blurrypaths.com/post/52573899794/processing-2-0-modes-download-links
@@ -61,8 +62,8 @@ Compiling Instructions
    Put these modes under Documents\Processing\modes\
    (Assuming a windows machine)
    
-   Create a new folder and add all D_PAD repo contents into this folder. Simply click "Download Zip" from the 
-   panel on the right. 
+   Create a new folder and name it "D_PAD" (This is necessary). Add all D_PAD repo contents into this folder. Simply click "Download Zip" from the 
+   panel on the right from this link - 
    https://github.com/ArunMichaelDsouza/D_Pad
    
    Once the IDE has been downloaded, open processing, goto file -> open. Now browse to the D_PAD folder
@@ -95,10 +96,10 @@ Compiling Instructions
    
    Now,Open Safari on your mobile device.
    In the address bar type in the ip address of your computer followed by a colon and the port number that the 
-   web browser running on the computer will show. And hit enter.
+   web browser (running the processing sketch) on the computer will show. And hit enter.
    
-   In the Safari address bar , it will look something like this - 
-   http://192.168.0.xyz:23454
+   In Safari , the address bar should have a link that looks something like this - 
+   " http://192.168.0.108:23454 "
    where 23454 is the port number.
    To get the ip address on MAC use ifconfig on the terminal. On windows use ipconfig at command prompt.
    
