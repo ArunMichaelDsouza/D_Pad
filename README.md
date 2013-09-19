@@ -114,7 +114,8 @@ Compiling Instructions
 
 
 
-Fork it! send me a pull request! have fun exploring!!
+Send a pull request......feel free to contribute!
+Or just fork it! have fun exploring!!
 
 If any problem persists, feel free to post an issue or drop an email.
 
