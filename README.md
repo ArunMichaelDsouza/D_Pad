@@ -62,7 +62,8 @@ Compiling Instructions
    Put these modes under Documents\Processing\modes\
    (Assuming a windows machine)
    
-   Create a new folder and name it "D_PAD" (This is necessary). Add all D_PAD repo contents into this folder. Simply click "Download Zip" from the 
+   Create a new folder and name it "D_PAD" (This is necessary). Add all D_PAD repo contents into this folder. 
+   Simply click "Download Zip" from the 
    panel on the right from this link - 
    https://github.com/ArunMichaelDsouza/D_Pad
    
@@ -78,7 +79,7 @@ Compiling Instructions
           
    FOR ANDROID DEVICES - 
    Select "Android Mode" from the top right panel in the Processing IDE. Before that you might need to setup your
-   android environment. 
+   android environment. You need to download the Android SDK.
    
    The following links will help - 
    
