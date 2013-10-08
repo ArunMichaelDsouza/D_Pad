@@ -1,4 +1,3 @@
-
 int HORIZONTAL = 0;
 int VERTICAL   = 1;
 int UPWARDS    = 2;
@@ -643,16 +642,4 @@ class MultiSlider extends Widget
     return false;
   }
 
-  boolean mouseReleased()
-  {
-    for (int i = 0; i < sliders.length; i++)
-    {
-      if(sliders[i].mouseReleased())
-      {
-        return true;
-      }
-    }
-    return false;
-  }
-}
-
+ 
