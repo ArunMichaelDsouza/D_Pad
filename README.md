@@ -4,6 +4,10 @@ D Pad (Drum Pad)
    D Pad is a Drumming App built with Processing (www.processing.org), for Android/iOS Devices.
   
    Designing and Programming by - Arun Michael Dsouza (amdsouza92@gmail.com).
+   
+   D Pad was the final project for the Creative Programming MOOC I participated in at Coursera.
+   Find out more here - 
+   https://www.coursera.org/course/digitalmedia
 
    
 Description
