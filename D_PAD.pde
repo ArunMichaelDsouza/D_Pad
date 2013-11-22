@@ -10,6 +10,7 @@
 // Global Declarations.
 
 boolean showGUI=false;
+bolean GUI=false;
 
 RadioButtons b;
 
