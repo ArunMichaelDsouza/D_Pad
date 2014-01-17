@@ -25,6 +25,7 @@ PImage open;
 PImage UI;
 PImage crash2;
 PImage floortom2;
+PImage china;
 
 int snarex, snarey;
 int crashx, crashy;
