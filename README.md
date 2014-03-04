@@ -53,8 +53,8 @@ About Processing
    
    
    
-Compiling Instructions
-======================
+Compilation
+===========
 
    The Processing integrated development environment (IDE) is required to compile the sketch.
    It can be downloaded from - http://www.processing.org/
