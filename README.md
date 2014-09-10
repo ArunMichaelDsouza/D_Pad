@@ -14,15 +14,12 @@ Description
 ===========
    
    The app uses the native device's touchscreen interface to interact with the user.
-   D Pad equips a pretty simple home screen with usable buttons providing easy user interaction. 
+   D Pad equips a pretty simple home screen with buttons providing easy user interaction. 
    
    The "Start" button takes the user to the main user interface where he/she interacts with a standard 
    5-piece drum kit (with 4 cymbals) using a mouse click (on desktops/laptops) or a finger tap 
    (in case of mobile devices).
-   
-   It is an ideal drumming app for mobile devices.
-   D Pad works quite fluently with finger taps on mobile devices. On a desktop its rather difficult to 
-   use a mouse for such an app. So desktops/laptops can be used to just test the app out.
+   D Pad also works quite fluently with finger taps on mobile devices. 
    
    The user interface points out clickable / tapable parts of the drums / cymbals using a large 'circle'.
    When the user clicks or taps on the circle or somewhere around it, the corresponding sound of the drum kit is played. 
