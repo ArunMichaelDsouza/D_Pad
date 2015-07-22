@@ -28,6 +28,13 @@ D Pad (Drum Pad)
    can quickly switch back to the user interface from the Credits page. Similarly, the user interface has 
    the "Credits" button as "always active" for quick interaction (never hidden) so as the user can view the 
    credits anytime.
+
+   <br/>
+   ![D Pad Screenshot 1](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/snapshots/1.png)
+   <br/><br/>
+   ![D Pad Screenshot 2](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/snapshots/2.png)
+   <br/><br/>
+   ![D Pad Screenshot 3](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/snapshots/3.png)
    
    
    
