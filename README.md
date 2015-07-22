@@ -30,11 +30,11 @@ D Pad (Drum Pad)
    credits anytime.
 
    <br/>
-   ![D Pad Screenshot 1](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/snapshots/1.png)
+   ![D Pad Screenshot 1](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/Snapshots/1.png)
    <br/><br/>
-   ![D Pad Screenshot 2](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/snapshots/2.png)
+   ![D Pad Screenshot 2](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/Snapshots/2.png)
    <br/><br/>
-   ![D Pad Screenshot 3](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/snapshots/3.png)
+   ![D Pad Screenshot 3](https://raw.githubusercontent.com/ArunMichaelDsouza/D_Pad/master/Snapshots/3.png)
    
    
    
