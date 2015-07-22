@@ -1,19 +1,15 @@
 D Pad (Drum Pad)
 ================
    
-   D Pad (Drum Pad) is a Drumming App built with Processing (www.processing.org), for Android/iOS Devices.
-  
-   Designing and Programming by - Arun Michael Dsouza (amdsouza92@gmail.com).
-   
+   D Pad (Drum Pad) is a Drumming App built with Processing (www.processing.org), for Desktop/Mobile Environments.
+     
    D Pad was the final project for the Creative Programming MOOC I participated in at Coursera.
    Find out more here - 
    https://www.coursera.org/course/digitalmedia
 
    
-Description
-===========
+## Description
    
-   The app uses the native device's touchscreen interface to interact with the user.
    D Pad equips a pretty simple home screen with buttons providing easy user interaction. 
    
    The "Start" button takes the user to the main user interface where he/she interacts with a standard 
@@ -35,8 +31,7 @@ Description
    
    
    
-About Processing
-================
+## About Processing
 
    Processing is an open source programming language and integrated development environment built for electronic 
    arts and digital media. It is a java-based language built to teach computer programming in a visual 
@@ -50,8 +45,7 @@ About Processing
    
    
    
-Compilation
-===========
+## Compilation
 
    The Processing integrated development environment (IDE) is required to compile the sketch.
    It can be downloaded from - http://www.processing.org/
@@ -106,25 +100,18 @@ Compilation
    To get the ip address on MAC use ifconfig on the terminal. On windows use ipconfig at command prompt.
    
    
-   
-          
+## License
 
+MIT Licensed
 
-=================
+Copyright (c) 2013 Arun Michael Dsouza (amdsouza92@gmail.com)
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-Send a pull request......feel free to contribute!
-Or just fork it! have fun exploring!!
-
-If any problem persists, feel free to post an issue or drop an email.
-
-
-
-Arun Michael Dsouza.
-amdsouza92@gmail.com
 
 
 
